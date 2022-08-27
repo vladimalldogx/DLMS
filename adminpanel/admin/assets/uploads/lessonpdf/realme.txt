@@ -1,0 +1,28 @@
+NOtes 
+-pwede nato butangan ug button view ang action sa lesson and exam for actual preview lang for admin checking.
+
+Notes: Lesson added (subject to change pani) also with exam(exam question not yet deploy)
+
+-pwede ta ka upload ug multiple pdf files per lesson.
+
+Notes: On Going pani pero dli pa ma apil sa karun na update
+Update as 11/12: Goods na sya but sa update on going
+
+
+-pwede ta condition sa display sa lesson; if pfd kay pdf rapud ang display and walay presence sa video like NO VIDEO
+
+Notes: Change instead of no video / PDF if the admin can see on Upload file / Source link and upload file column(Subject to change)
+
+
+LEARNER PROBLEM
+- NO LESSON VIDEO PDF AVAILABLE 
+-pwede ta 1 question ra mo appear then e click next for next question.
+STATUS: Basin dli ni ma implement but ill try to do this 
+STATUS: on goin but wala pay sure but tentative.
+
+Notes: Wala pani sya
+
+-pwede nato e display ang name sa PDF file na naa sa lesson then if walay video ge upload kay naka hide pud ang NO LESSON VIDEO
+
+-missing age "0"
+update: bdate pwd na maka update
